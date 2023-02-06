@@ -8,13 +8,22 @@ const Footer = () => {
 	return (
 		<footer className="footer">
 			<div class="footer__social">
-				<a href="#" class="footer__social--link">
+				<a
+					href="https://www.instagram.com/gigisbakeryla/"
+					class="footer__social--link"
+				>
 					<FontAwesomeIcon icon={faInstagram} />
 				</a>
-				<a href="#" class="footer__social--link">
+				<a
+					href="https://www.twitter.com/gigisbakeryla/"
+					class="footer__social--link"
+				>
 					<FontAwesomeIcon icon={faTwitter} />
 				</a>
-				<a href="#" class="footer__social--link">
+				<a
+					href="https://www.facebook.com/GigisBakeryla/"
+					class="footer__social--link"
+				>
 					<FontAwesomeIcon icon={faFacebook} />
 				</a>
 				<p className="footer__copyright">All Rights Reserved. &copy;GBLA</p>
