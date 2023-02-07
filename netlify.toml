@@ -2,31 +2,6 @@
     publish="build"
 
 [[redirects]]
-
     from = "/*"
-    to = "/"
-    status = 200
-
-    from = "/*"
-    to = "/menu"
-    status = 200
-
-    from = "/*"
-    to = "/sandwiches"
-    status = 200
-
-    from = "/*"
-    to = "/specialties"
-    status = 200
-
-    from = "/*"
-    to = "/bakery"
-    status = 200
-
-    from = "/*"
-    to = "/cafe"
-    status = 200
-
-    from = "/*"
-    to = "/contact"
+    to = "/index.html"
     status = 200
